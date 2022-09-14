@@ -1,4 +1,4 @@
-# Data-Analysis-Python-Project
+# Data Analysis Python Project
 Collection of revenue and audience data into a single report.
 Calculating the ARPU metric for each device.
 Searching for the device model with the highest ARPU.
